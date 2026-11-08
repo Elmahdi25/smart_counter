@@ -1,3 +1,4 @@
+I hope u Like it:)
 # Smart Counter ![alt text](imgs/favicon.png)
 
 ![Smart Counter in light mode on a mobile](imgs/1_mobile_mockup.png)
