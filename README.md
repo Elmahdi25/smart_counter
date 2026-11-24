@@ -1,5 +1,5 @@
 I hope u Like it:)
-[Project Link]https://elmahdi25.github.io/smart_counter/
+[Project Link] https://elmahdi25.github.io/smart_counter/
 # Smart Counter ![alt text](imgs/favicon.png)
 
 ![Smart Counter in light mode on a mobile](imgs/1_mobile_mockup.png)
