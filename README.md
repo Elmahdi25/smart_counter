@@ -15,7 +15,7 @@ I hope u Like it:)
 Smart Counter is a responsive counter that can start anywhere, count by custom steps, and run automatically. I built it to get comfortable with `addEventListener()` and arrow functions while building toward more advanced JavaScript. I started with a **+1** button. Somewhere along the way, it got a keyboard, a timer, and a night shift.
 
 ## Preview
-
+[Project Link]https://elmahdi25.github.io/smart_counter/
 ![Animated slideshow of Smart Counter mockups on phones and a laptop in light and dark mode](imgs/5_quick_actions.gif)
 ![Animated slideshow of Smart Counter mockups on phones and a laptop in light and dark mode](imgs/6_auto_mode.gif)
 ![Animated slideshow of Smart Counter mockups on phones and a laptop in light and dark mode](imgs/7_app_version.gif)
